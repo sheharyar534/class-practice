@@ -1,3 +1,4 @@
+import 'dart:math';
 
 void main() {
   // Generate a random number between 1 and 100
